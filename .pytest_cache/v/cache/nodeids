@@ -1,0 +1,11 @@
+[
+  "testcase/sys/test_sys_changepwd.py::Test_ChangePwd::()::test_changPwd_success",
+  "testcase/sys/test_sys_changepwd.py::Test_ChangePwd::()::test_changPwd_successReturn",
+  "testcase/sys/test_sys_changepwd.py::Test_ChangePwd::()::test_changPwd_fail_type1",
+  "testcase/sys/test_sys_changepwd.py::Test_ChangePwd::()::test_changPwd_fail_type2",
+  "testcase/sys/test_sys_changepwd.py::Test_ChangePwd::()::test_changPwd_fail_type3",
+  "testcase/sys/test_sys_changepwd.py::Test_ChangePwd::()::test_changPwd_fail_type4",
+  "testcase/sys/test_sys_changepwd.py::Test_ChangePwd::()::test_changPwd_fail_type5",
+  "testcase/sys/test_sys_getUserInfo.py::Test_GetUserInfo::()::test_getUserInfo",
+  "testcase/sys/test_sys_getUserInfo.py::test_sdf"
+]

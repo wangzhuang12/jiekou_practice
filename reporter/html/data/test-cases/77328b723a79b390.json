@@ -1,0 +1,66 @@
+{
+  "uid" : "77328b723a79b390",
+  "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_successReturn",
+  "fullName" : "testcase.D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_successReturn",
+  "historyId" : "887eaa71eebea3bbf373f5bda3b1d20",
+  "time" : {
+    "start" : 1554607825941,
+    "stop" : 1554607825970,
+    "duration" : 29
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "修改密码模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20181127HRW"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "改回原来密码"
+  }, {
+    "name" : "thread",
+    "value" : "5652-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_successReturn"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "77328b723a79b390.json",
+  "parameterValues" : [ ]
+}

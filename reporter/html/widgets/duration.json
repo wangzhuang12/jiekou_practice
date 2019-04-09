@@ -1,0 +1,71 @@
+[ {
+  "uid" : "7d0ea7cede6e3904",
+  "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type1",
+  "time" : {
+    "start" : 1554607825970,
+    "stop" : 1554607825986,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e044c143ce1d303",
+  "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type2",
+  "time" : {
+    "start" : 1554607825986,
+    "stop" : 1554607826003,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c83ba9444c0f9ea",
+  "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_success",
+  "time" : {
+    "start" : 1554607825855,
+    "stop" : 1554607825940,
+    "duration" : 85
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77328b723a79b390",
+  "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_successReturn",
+  "time" : {
+    "start" : 1554607825941,
+    "stop" : 1554607825970,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "497de8bb4f2c133b",
+  "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type5",
+  "time" : {
+    "start" : 1554607826046,
+    "stop" : 1554607826061,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d943091b4a9f3f6",
+  "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type3",
+  "time" : {
+    "start" : 1554607826004,
+    "stop" : 1554607826019,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ea346cd0eff3fe4",
+  "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type4",
+  "time" : {
+    "start" : 1554607826020,
+    "stop" : 1554607826045,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

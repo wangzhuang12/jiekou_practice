@@ -1,0 +1,109 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "修改密码模块",
+    "children" : [ {
+      "name" : "修改密码成功",
+      "children" : [ {
+        "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_success",
+        "uid" : "c83ba9444c0f9ea",
+        "parentUid" : "a38462b3f4314282ccc0eb63786aa59e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554607825855,
+          "stop" : 1554607825940,
+          "duration" : 85
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type2",
+        "uid" : "5e044c143ce1d303",
+        "parentUid" : "a38462b3f4314282ccc0eb63786aa59e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554607825986,
+          "stop" : 1554607826003,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a38462b3f4314282ccc0eb63786aa59e"
+    }, {
+      "name" : "改回原来密码",
+      "children" : [ {
+        "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_successReturn",
+        "uid" : "77328b723a79b390",
+        "parentUid" : "e389d85b7f5d98725f1d247edf478092",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554607825941,
+          "stop" : 1554607825970,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e389d85b7f5d98725f1d247edf478092"
+    }, {
+      "name" : "旧密码错误",
+      "children" : [ {
+        "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type1",
+        "uid" : "7d0ea7cede6e3904",
+        "parentUid" : "0be4be91bc8c24f9b83258f2fa5fe528",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554607825970,
+          "stop" : 1554607825986,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0be4be91bc8c24f9b83258f2fa5fe528"
+    }, {
+      "name" : "用户名错误",
+      "children" : [ {
+        "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type3",
+        "uid" : "d943091b4a9f3f6",
+        "parentUid" : "2f76872055988dc36776dc4096470c42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554607826004,
+          "stop" : 1554607826019,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2f76872055988dc36776dc4096470c42"
+    }, {
+      "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type4",
+      "uid" : "5ea346cd0eff3fe4",
+      "parentUid" : "305a3b4fed53266ad019359911e11777",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554607826020,
+        "stop" : 1554607826045,
+        "duration" : 25
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type5",
+      "uid" : "497de8bb4f2c133b",
+      "parentUid" : "305a3b4fed53266ad019359911e11777",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554607826046,
+        "stop" : 1554607826061,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "305a3b4fed53266ad019359911e11777"
+  } ]
+}

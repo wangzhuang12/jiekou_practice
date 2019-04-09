@@ -1,0 +1,8 @@
+{
+  "testcase/sys/test_sys_login.py::Test_Login::()::test_login_fail_type3": true,
+  "testcase/test_firstcase.py::test_six": true,
+  "testcase/test_secondcase.py::test_second": true,
+  "testcase/user/test_sys_loadUserInfo.py::Test_LoadUserInfo::()::test_saveOrUpdateUser": true,
+  "testcase/user/test_user_loadUserInfo.py::Test_LoadUserInfo::()::test_loadUserList": true,
+  "testcase/user/test_user_loadUserInfo.py::Test_LoadUserInfo::()::test_login": true
+}

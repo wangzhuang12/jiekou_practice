@@ -1,0 +1,63 @@
+{
+  "uid" : "497de8bb4f2c133b",
+  "name" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type5",
+  "fullName" : "testcase.D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type5",
+  "historyId" : "c1bd9ccdacbf488bd1569f0ad01e0c6c",
+  "time" : {
+    "start" : 1554607826046,
+    "stop" : 1554607826061,
+    "duration" : 15
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "修改密码模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20181127HRW"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5652-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\temp\\pyth.project\\interfaceStudy\\testcase\\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type5"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "497de8bb4f2c133b.json",
+  "parameterValues" : [ ]
+}

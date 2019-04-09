@@ -1,0 +1,102 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554607825855" stop="1554607826061">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554607825855" status="passed" stop="1554607825940">
+      <name>D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_success</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="修改密码成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5652-MainThread"/>
+        <label name="host" value="SKY-20181127HRW"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554607825941" status="passed" stop="1554607825970">
+      <name>D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_successReturn</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="改回原来密码"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5652-MainThread"/>
+        <label name="host" value="SKY-20181127HRW"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554607825970" status="passed" stop="1554607825986">
+      <name>D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type1</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="旧密码错误"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5652-MainThread"/>
+        <label name="host" value="SKY-20181127HRW"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554607825986" status="passed" stop="1554607826003">
+      <name>D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type2</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="修改密码成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5652-MainThread"/>
+        <label name="host" value="SKY-20181127HRW"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554607826004" status="passed" stop="1554607826019">
+      <name>D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type3</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="用户名错误"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5652-MainThread"/>
+        <label name="host" value="SKY-20181127HRW"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554607826020" status="passed" stop="1554607826045">
+      <name>D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type4</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5652-MainThread"/>
+        <label name="host" value="SKY-20181127HRW"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554607826046" status="passed" stop="1554607826061">
+      <name>D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type5</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="5652-MainThread"/>
+        <label name="host" value="SKY-20181127HRW"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

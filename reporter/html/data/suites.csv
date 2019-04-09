@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcase.D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type1","16",""
+"passed","testcase.D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type2","17",""
+"passed","testcase.D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_success","85",""
+"passed","testcase.D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_successReturn","29",""
+"passed","testcase.D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type5","15",""
+"passed","testcase.D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type3","15",""
+"passed","testcase.D:\temp\pyth.project\interfaceStudy\testcase\sys.test_sys_changepwd.Test_ChangePwd.test_changPwd_fail_type4","25",""
